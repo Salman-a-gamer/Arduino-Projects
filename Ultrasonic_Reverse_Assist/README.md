@@ -41,6 +41,4 @@ Install the **Ultrasonic** library by Eric Simoes from the Arduino Library Manag
 3. Upload the `.ino` file to Arduino.
 4. Move an object near the sensor and observe LED/buzzer feedback.
 
-## Demo
 
-Add a circuit image or demo video here (optional).
