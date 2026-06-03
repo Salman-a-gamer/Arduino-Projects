@@ -172,10 +172,6 @@ Refer to `audio_to_buzzer_Circuit.png` for the full wiring diagram. <!-- replace
 
 ## References
 
-<!-- Add your references here. Some suggestions: -->
-
-- McLeod, P., & Wyvill, G. (2005). *A smarter way to find pitch.* — YIN algorithm paper
-- Mauch, M., & Dixon, S. (2014). *pYIN: A fundamental frequency estimator using probabilistic threshold distributions.* ICASSP 2014.
 - [librosa documentation](https://librosa.org/doc/latest/index.html)
 - [Arduino `tone()` reference](https://www.arduino.cc/reference/en/language/functions/advanced-io/tone/)
 - [A fantastic explanation of Fourier Transfor on YouTube](https://www.youtube.com/watch?v=iyjIVSnrPSo&list=LL&index=4)
